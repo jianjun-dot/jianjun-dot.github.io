@@ -49,6 +49,11 @@ hr{
 
 }
 
+h6{
+    font-family: 'Roboto', sans-serif;
+    color: #EAF6F6;
+}
+
 p{
     line-height: 2;
 }
