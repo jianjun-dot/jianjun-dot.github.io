@@ -19,13 +19,15 @@ h2{
     font-family: 'Roboto', sans-serif;
     color: #66BFBF;
     font-size: 3vmax;
+    font-weight: 300;
 }
 
 
 h3{
     font-family: 'Roboto', sans-serif;
     color: #11999E;
-    font-size: 3vmax;
+    font-size: 2vmax;
+    font-weight: 100;
 }
 
 a{
@@ -121,6 +123,7 @@ p{
 
 .feature-title{
     font-size:3vmax;
+    font-weight: 300;
 }
 
 .feature-col{
