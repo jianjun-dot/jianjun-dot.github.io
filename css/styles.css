@@ -18,7 +18,7 @@ body{
 h2{
     font-family: 'Roboto', sans-serif;
     color: #66BFBF;
-    font-size: 3vmax;
+    font-size: 4vmax;
     font-weight: 300;
 }
 
@@ -64,24 +64,24 @@ p{
 .top-container{
     background-color: #E4F9F5;
     position: relative;
-    padding-top: 10% 10%
+    padding: 7% 15%
 
 }
 .middle-container{
     margin-top: 100px;
-    padding:20% 20%;
+    padding:7% 20%;
 }
 .bottom-container{
     background-color: #66BFBF;
     position: relative;
-    padding:10% 10%;
+    padding:7% 7%;
 
 }
 
 .profile-pic{
     margin-top:20px;
     margin-bottom: 40px;
-    width:100%;
+    width:50%;
 }
 
 .copyright{
