@@ -2,7 +2,7 @@
 h1{
     margin: 50px auto 0 auto;
     font-family: 'Major Mono Display', monospace;
-    font-size: 5rem;
+    font-size: 5vmax;
     color: #66BFBF;
     line-height: 2;
 }
@@ -12,19 +12,20 @@ body{
     text-align: center;
     font-family: 'Raleway', sans-serif;
     color: #40514E;
+    font-size: 2vmax;
 }
 
 h2{
     font-family: 'Roboto', sans-serif;
-    font-size: 2.5rem;
     color: #66BFBF;
-    font-weight: normal;
+    font-size: 3vmax;
 }
 
 
 h3{
     font-family: 'Roboto', sans-serif;
     color: #11999E;
+    font-size: 3vmax;
 }
 
 a{
@@ -66,7 +67,7 @@ p{
 }
 .middle-container{
     margin-top: 100px;
-    padding:10% 10%;
+    padding:20% 20%;
 }
 .bottom-container{
     background-color: #66BFBF;
@@ -119,7 +120,7 @@ p{
 }
 
 .feature-title{
-    font-size:1.5rem;
+    font-size:3vmax;
 }
 
 .feature-col{
